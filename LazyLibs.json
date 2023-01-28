@@ -1,0 +1,10 @@
+{
+    "path": "$LazyLibs",
+    "load_package_once": true,
+    "version": "19.5",
+    "env": [
+        {
+            "LazyLibs": "$HOUDINI_PACKAGE_LIB/LazyLibs"
+        }
+    ]
+}
